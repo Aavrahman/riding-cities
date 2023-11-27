@@ -17,8 +17,7 @@ body {
 	max-width: 1440px;
 }
 
-h2, 
-h3 {
+h2, h3 {
 	font-family: 'Archivo', sans-serif;
 	font-style: normal;
 }
